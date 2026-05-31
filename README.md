@@ -1,9 +1,9 @@
 ## Hi, I'm Julie 👋
-Former IC and teacher, now EM, I build teams that ship great products without burning out humans
+Former IC and bootcamp instructor, now EM, I build teams that ship great products without burning out humans
 
 ## Currently
-- Thinking about how AI / agentic coding changes how we do code review
-- Building a project tracker that does all the things I wish Jira did without all the extra crap I don't need
+- Having daily existential crises about what AI means for Software while also really enjoying how quickly I can get little projects up and running
+- Building a stupidly simple budgeting app for local development only
 - Wondering if there's going to be a great bug apocalypse in 2027 when the vibe code breaks and Stack Overflow can’t save us
 
 ## What I optimize for
